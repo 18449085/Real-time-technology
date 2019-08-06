@@ -1,0 +1,14 @@
+.tags {
+color: #549df0;
+font-weight:bold;
+}
+
+.card{
+    border: solid #549df0;
+    width: 22.5rem;
+    margin: 0.5rem;
+} 
+
+.card-img-top{
+    height: 10rem;
+}
